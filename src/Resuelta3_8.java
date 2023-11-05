@@ -10,7 +10,7 @@ public class Resuelta3_8 {
             n=sc.nextInt();
             suma += n;
         }
-        media = suma/10;
+        media = (double) suma /10;
         System.out.println("La media es: "+ media);
     }
 }
