@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8b15c7-976e-4e78-acdd-958bccf34c88" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Resuelta3_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resuelta3_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resuelta3_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699222194755</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1699223245327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699223245327</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
